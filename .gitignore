@@ -1,0 +1,5 @@
+OwoApp/bin/*
+OwoApp/obj/Debug/*
+OwoApp/obj/publish/*
+OwoApp/obj/Release/*
+.vs/*

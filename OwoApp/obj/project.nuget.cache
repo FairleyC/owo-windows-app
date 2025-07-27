@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "eAKhMiGLmXo=",
+  "dgSpecHash": "DnLIl2f/7kE=",
   "success": true,
   "projectFilePath": "C:\\Users\\fairl\\source\\repos\\OwoApp\\OwoApp\\OwoApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\fairl\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
     "C:\\Users\\fairl\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
     "C:\\Users\\fairl\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\fairl\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\fairl\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\fairl\\.nuget\\packages\\owo\\2.4.2\\owo.2.4.2.nupkg.sha512",
     "C:\\Users\\fairl\\.nuget\\packages\\socketio.core\\3.1.1\\socketio.core.3.1.1.nupkg.sha512",
     "C:\\Users\\fairl\\.nuget\\packages\\socketio.serializer.core\\3.1.1\\socketio.serializer.core.3.1.1.nupkg.sha512",
